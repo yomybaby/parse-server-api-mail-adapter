@@ -23,7 +23,7 @@ node_modules
 # Temporary
 .idea
 .DS_Store
-lib
+# lib
 
 # Visual Studio Code
 .vscode
